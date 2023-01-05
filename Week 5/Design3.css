@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 30;
+  padding: 45;
+}
+body{
+    background-color: palegreen;
+}
+h1{
+    padding-right: 500px;
+}
+p{
+    display: inline-block;
+    padding-left: 500px;
+}
+figure {
+    width: 500px;
+    margin: 0 auto;
+  }
+  figure img {
+    width: 100%;
+  }
+  
